@@ -1,1 +1,1 @@
-module github.com/motoronik/mattermost_webhook_client
+module github.com/motoronik/mattermost-webhook-client
